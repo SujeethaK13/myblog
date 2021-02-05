@@ -1,0 +1,101 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    }
+
+.my_navbar{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+    list-style: none;
+}
+.line{
+    width:150px;
+    height: 6px;
+    margin:10px auto;
+    background-color: darkslategray;
+}
+#home img{
+    margin-bottom: 150px;
+}
+.tra_div{
+    border:1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
+.tra_div img{
+    width:100%;
+}
+.tra_div h5,.tra_div p{
+    margin-left: 30px;
+}
+#aboutme{
+    margin-top: 50px;
+    height:1200px;
+}
+.know_head{
+    font-size: 30px;
+    padding: 8px 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    width:100%;
+    display: inline-block;
+    }
+.know_head i{
+    float:right;
+    color: rebeccapurple;
+}
+.know_head span{
+    color: rebeccapurple;
+}
+.know_text span{
+    color: darkgoldenrod;
+}
+.fav_li
+{
+  margin-top: 13px;
+}
+
+.fav_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.fav_li img
+{
+  border-radius: 25px;
+}
+
+.fav_li p
+{
+  margin-top:10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+#inspirations img{
+    width: 650px;
+    height:450px;
+    padding-left: 30px auto;
+}
+
+
+
+
